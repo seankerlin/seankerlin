@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @seankerlin
-
-- 🌱 I’m currently learning Python
--
 - 📫 How to reach me seankerlin@gmail.com
 
 <!---
